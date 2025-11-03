@@ -4,7 +4,7 @@
 
 👉 Currently pushing the financial system foward at [Evertec](https://evertecinc.com/pt-br/)
 
-👉 Outside of work developing [Torque](https://github.com/FelipeGomeees/Torque), a physics library, as well as its surrouding sub-modules
+👉 Outside of work developing [Torque](https://github.com/FelipeGomeees/Torque), a physics library
 
 👉 Leetcode maniac in the making
 
