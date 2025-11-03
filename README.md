@@ -2,17 +2,30 @@
 
 ### I'm Felipe 👨‍🚀 A web developer from Brazil that likes to prototype cool stuff!
 
-👉 Currently working at [Evertec](https://evertecinc.com/pt-br/)
+👉 Currently pushing the financial system foward at [Evertec](https://evertecinc.com/pt-br/)
 
-👉 Outside of work developing Torque, a physics library, as well as its surrouding sub-modules
+👉 Outside of work developing [Torque](https://github.com/FelipeGomeees/Torque), a physics library, as well as its surrouding sub-modules
 
 👉 Leetcode maniac in the making
 
-👉 Page-turner enthusiast
+👉 Page-turner / Wiki enthusiast
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-gomes-7224a1275/" target="_blank">
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/N5hrFMJYub/" target="_blank">
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/felipegomesdss/" target="_blank">
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram">
+  </a>
+</p>
+
 
 ---
-
-<br/>
 
 <h3 align="center">☕ You might see me working with</h3>
 
